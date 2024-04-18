@@ -2,9 +2,8 @@
 - 👀 I’m interested in data science and programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me : linkedin:www.linkedin.com/in/prince-kumar-38b2a6253
-- Gmail:prince857900@gmail.com
-- 😄 Pronouns: he
+- 📫 How to reach me :<br> linkedin:www.linkedin.com/in/prince-kumar-38b2a6253<br>Gmail:prince857900@gmail.com
+- 😄 Pronouns: he\him
 - 
 
 <!---
